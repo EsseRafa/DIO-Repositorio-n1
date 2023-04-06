@@ -1,0 +1,31 @@
+Comandos essenciais para criação, manutenção e sincronização de repositórios Github.
+	
+	- Para Clonar repositório na máquina (Não digitar os parênteses):
+		
+		git clone (link do repositório a ser clonado)
+
+
+	- Para checar status do repositório:
+
+		git status
+
+
+	- Comando para registrar alterações/arquivos a serem enviadas/adicionados (Controle de versão local):
+
+		git add .
+
+
+	- Comando para commitar 
+
+		git commit -m "escreva aqui um comentário para as alterações"
+
+
+	- Comando para enviar os commits para a nuvem:
+		
+		git push origin main
+
+	
+	- Para saber mais:
+
+	Curso de introdução para Git/Github:
+		Link: https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/12607816-1128-4906-9645-cbe0f7fcc72b
